@@ -107,3 +107,4 @@ uno.exe
 4. **Wild Cards:** When playing a Wild or Wild Draw 4, pick a color (1: Red, 2: Yellow, 3: Green, 4: Blue).
 5. **Wild Draw 4 Challenge:** The targeted player can challenge the play if they suspect the opponent had a card matching the active color.
 6. **Winning:** The first player to empty their hand wins the round!
+
