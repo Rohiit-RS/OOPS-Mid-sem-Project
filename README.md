@@ -82,12 +82,6 @@ Run the executable:
 - **Linux / macOS:** `./uno`
 - **Windows:** `.\uno.exe`
 
-#### Using Clang++
-```bash
-clang++ -std=c++11 -O2 -o uno main.cpp Card.cpp Player.cpp Deck.cpp Game.cpp
-./uno
-```
-
 #### Using Microsoft Visual C++ (MSVC Developer Command Prompt)
 ```cmd
 cl /EHsc /std:c++14 main.cpp Card.cpp Player.cpp Deck.cpp Game.cpp /Fe:uno.exe
