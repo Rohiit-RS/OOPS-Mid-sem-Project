@@ -51,7 +51,6 @@ void Game::say(const string& msg) {
     events += msg;
 }
 
-// Clear mode 1: print blank lines to push old content off the screen.
 void Game::clearScreen() const {
     cout << flush;
     for (int i = 0; i < 100; ++i) cout << "\n";
