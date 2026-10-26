@@ -1,0 +1,57 @@
+# Compiled Binaries & Executables
+*.exe
+*.out
+*.app
+uno
+uno.exe
+
+# Object Files & Libraries
+*.o
+*.obj
+*.lib
+*.a
+*.so
+*.dylib
+*.dll
+
+# Debugging and Profiling
+*.pdb
+*.idb
+*.ilk
+*.dSYM/
+
+# Build Directories
+build/
+bin/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio & VS Code
+.vs/
+*.suo
+*.user
+*.userosv
+*.sln.docstates
+Debug/
+Release/
+x64/
+x86/
+.vscode/ipch/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# CLion / JetBrains
+.idea/
+
+# OS-specific Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+~$*
